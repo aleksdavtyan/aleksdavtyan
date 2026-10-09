@@ -21,7 +21,7 @@ Backend Software Engineer focused on high-performance server-side architectures,
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksan-davtyan)
-[![Get in Touch](https://img.shields.io/badge/Contact-LinkedIn--DM-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksan-davtyan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:davtyan.it@gmail.com)
 <!---
 aleksdavtyan/aleksdavtyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
